@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e59557d7-3364-455e-afd2-e342b1fc28b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\enviroment\apache-maven-3.3.9\MvRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../enviroment/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\enviroment\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tboQjBMZHuEQ71BlIqab2wtdou" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Baidudownload/大型微服务电商系统/myshop/2008-shop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chuang.shopgoods" />
+      <recent name="com.chuang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-search\src\main\resources" />
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-goods\src\main\resources" />
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-back\src\main\resources\templates" />
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-back\src\main\resources\templates\user" />
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-back\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chuang.shopresources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-back\src\main\resources\templates\common" />
+      <recent name="C:\Tools\IdeaIU\workspace\Shop2020\Shop-Server\shop-resources\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopGoodsApplication">
+    <configuration name="ShopGoodsApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuang.shopgoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chuang.shopgoods" />
+      <option name="MAIN_CLASS_NAME" value="com.chuang.shopgoods.ShopGoodsApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopGoodsApplicationTest.testone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuang.shopgoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chuang.shopgoods" />
+      <option name="MAIN_CLASS_NAME" value="com.chuang.shopgoods.ShopGoodsApplicationTest" />
+      <option name="METHOD_NAME" value="testone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuang.ShopEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuang.shopgoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuang.shopgoods.ShopGoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopResourcesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuang.shopresources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuang.shopresources.ShopResourcesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shop-config" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuang.shopconfig.ShopConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ShopGoodsApplicationTest.testone" />
+      <item itemvalue="JUnit.ShopGoodsApplicationTest" />
+      <item itemvalue="Spring Boot.shop-config" />
+      <item itemvalue="Spring Boot.ShopResourcesApplication" />
+      <item itemvalue="Spring Boot.ShopGoodsApplication" />
+      <item itemvalue="Spring Boot.ShopEurekaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShopGoodsApplication" />
+        <item itemvalue="Spring Boot.ShopEurekaApplication" />
+        <item itemvalue="Spring Boot.ShopResourcesApplication" />
+        <item itemvalue="JUnit.ShopGoodsApplicationTest" />
+        <item itemvalue="JUnit.ShopGoodsApplicationTest.testone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e59557d7-3364-455e-afd2-e342b1fc28b6" name="Default Changelist" comment="" />
+      <created>1623047135783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623047135783</updated>
+      <workItem from="1623047139355" duration="1167000" />
+      <workItem from="1623048476882" duration="21057000" />
+      <workItem from="1623114532179" duration="8461000" />
+      <workItem from="1623130059059" duration="72883000" />
+      <workItem from="1623413054508" duration="605000" />
+      <workItem from="1623581884131" duration="3299000" />
+      <workItem from="1623808715327" duration="53822000" />
+      <workItem from="1624180932495" duration="2997000" />
+      <workItem from="1624323422919" duration="9549000" />
+      <workItem from="1624599826078" duration="1206000" />
+      <workItem from="1624845511623" duration="3101000" />
+      <workItem from="1624860864370" duration="14315000" />
+      <workItem from="1625014794557" duration="133000" />
+      <workItem from="1625015116773" duration="11469000" />
+      <workItem from="1625045464903" duration="7709000" />
+      <workItem from="1625475688599" duration="3027000" />
+      <workItem from="1626060439471" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="157" key="#Inspections" timestamp="1624183054868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="157" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1624183054868" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1623290297207" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1623397703566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1623397703566" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623071256403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623071256403" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1625016554284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625016554284" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1623051414409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623051414409" />
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1625020630827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1625020630827" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623139055063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623139055063" />
+    <state x="451" y="279" key="FileChooserDialogImpl" timestamp="1625623911817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625623911817" />
+    <state width="1173" height="308" key="GridCell.Tab.0.bottom" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.0.center" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.0.left" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.0.right" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.1.bottom" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.1.center" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.1.left" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1173" height="308" key="GridCell.Tab.1.right" timestamp="1625041481612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="429" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1624198725676" />
+    <state width="1173" height="308" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625041481612" />
+    <state width="1243" height="590" key="GridCell.Tab.2.bottom" timestamp="1625020671470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1243" height="590" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625020671470" />
+    <state width="1243" height="590" key="GridCell.Tab.2.center" timestamp="1625020671469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1243" height="590" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625020671469" />
+    <state width="1243" height="590" key="GridCell.Tab.2.left" timestamp="1625020671469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1243" height="590" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625020671469" />
+    <state width="1243" height="590" key="GridCell.Tab.2.right" timestamp="1625020671469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1243" height="590" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625020671469" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1623070951297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1623070951297" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1623051703789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623051703789" />
+    <state x="350" y="249" key="new project wizard" timestamp="1625041088577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="350" y="249" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625041088577" />
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1623292559457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623292559457" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shop-goods/src/test/java/com/chuang/shopgoods/ShopGoodsApplicationTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

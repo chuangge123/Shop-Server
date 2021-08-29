@@ -1,0 +1,10 @@
+server:
+  port: 9999
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/chuangge456/shop-server-config.git
+          search-paths: config
+          default-label: master

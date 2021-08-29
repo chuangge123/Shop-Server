@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shopuser,datasource,eureka-client
+      name: application
+logging:
+  level:
+   com.chuang.mapper: debug

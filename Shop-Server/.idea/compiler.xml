@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-entity" />
+        <module name="shop-search" />
+        <module name="shop-common" />
+        <module name="shop-resources" />
+        <module name="shop-eureka" />
+        <module name="shop-user" />
+        <module name="shop-zuul" />
+        <module name="shop-feign" />
+        <module name="shop-config" />
+        <module name="shop-goods" />
+        <module name="shop-back" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-back" options="-parameters" />
+      <module name="shop-common" options="-parameters" />
+      <module name="shop-config" options="-parameters" />
+      <module name="shop-entity" options="-parameters" />
+      <module name="shop-eureka" options="-parameters" />
+      <module name="shop-feign" options="-parameters" />
+      <module name="shop-goods" options="-parameters" />
+      <module name="shop-resources" options="-parameters" />
+      <module name="shop-search" options="-parameters" />
+      <module name="shop-user" options="-parameters" />
+      <module name="shop-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

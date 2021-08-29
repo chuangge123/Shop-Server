@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-goods,eureka-client,datasource,log
+      name: application
+mybatis-plus:
+  type-aliases-package: com.chuang.entity
+  mapper-locations: classpath:mapper/*Mapper.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

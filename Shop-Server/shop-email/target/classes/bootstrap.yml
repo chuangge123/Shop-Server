@@ -1,0 +1,19 @@
+server:
+  port: 8008
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-email,eureka-client,log
+      name: application
+  rabbitmq:
+    listener:
+      simple:
+        acknowledge-mode: manual
+    host: file.larkedfs.com
+  application:
+    name: shop-email
+  mail:
+    host: smtp.163.com
+    username: chuang13126676788@163.com
+    password: VSNSMAGPIXXUARFJ #授权码

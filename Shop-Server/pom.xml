@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <modules>
+        <module>shop-config</module>
+        <module>shop-eureka</module>
+        <module>shop-zuul</module>
+        <module>shop-user</module>
+        <module>shop-entity</module>
+        <module>shop-back</module>
+        <module>shop-resources</module>
+        <module>shop-feign</module>
+        <module>shop-common</module>
+        <module>shop-goods</module>
+        <module>shop-search</module>
+        <module>shop-email</module>
+        <module>shop-sso</module>
+    </modules>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.3.3.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+
+    <properties>
+        <spring-cloud.version>Hoxton.SR7</spring-cloud.version>
+        <mybatis-plus.version>3.2.0</mybatis-plus.version>
+        <mysql-version>8.0.19</mysql-version>
+    </properties>
+
+    <groupId>com.chuang</groupId>
+    <artifactId>Shop-Server</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <dependencyManagement>
+
+        <dependencies>
+
+            <dependency>
+                <groupId>commons-beanutils</groupId>
+                <artifactId>commons-beanutils</artifactId>
+                <version>1.9.3</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.auth0</groupId>
+                <artifactId>java-jwt</artifactId>
+                <version>3.4.0</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.mindrot</groupId>
+                <artifactId>jbcrypt</artifactId>
+                <version>0.4</version>
+            </dependency>
+
+
+            <dependency>
+                <groupId>com.github.tobato</groupId>
+                <artifactId>fastdfs-client</artifactId>
+                <version>1.26.1-RELEASE</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.chuang</groupId>
+                <artifactId>shop-common</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>com.chuang</groupId>
+                <artifactId>shop-feign</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-boot-starter</artifactId>
+                <version>${mybatis-plus.version}</version>
+            </dependency>
+
+
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <scope>runtime</scope>
+                <version>${mysql-version}</version>
+            </dependency>
+
+
+            <dependency>
+                <groupId>com.chuang</groupId>
+                <artifactId>shop-entity</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
+
+        </dependencies>
+
+
+
+
+    </dependencyManagement>
+
+
+</project>
